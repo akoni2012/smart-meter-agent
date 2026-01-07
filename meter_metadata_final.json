@@ -1,0 +1,1402 @@
+[
+  {
+    "meter_id": "SM-44821",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Nottingham",
+    "consumption_kwh": 0.32,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2021-12-22",
+    "last_maintenance": "2025-04-05",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44822",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Manchester",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2021-12-23",
+    "last_maintenance": "2025-04-06",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44823",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Sheffield",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2021-12-24",
+    "last_maintenance": "2025-04-07",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44824",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Leeds",
+    "consumption_kwh": 0.34,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2021-12-25",
+    "last_maintenance": "2025-04-08",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44825",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Birmingham",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2021-12-26",
+    "last_maintenance": "2025-04-09",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44826",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leicester",
+    "consumption_kwh": 0.32,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2021-12-27",
+    "last_maintenance": "2025-04-10",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44827",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Coventry",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2021-12-28",
+    "last_maintenance": "2025-04-11",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44828",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Reading",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2021-12-29",
+    "last_maintenance": "2025-04-12",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44829",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Sheffield",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2021-12-30",
+    "last_maintenance": "2025-04-13",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44830",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Coventry",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2021-12-31",
+    "last_maintenance": "2025-04-14",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44831",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Manchester",
+    "consumption_kwh": 0.39,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-01",
+    "last_maintenance": "2025-04-15",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44832",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Coventry",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-02",
+    "last_maintenance": "2025-04-16",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44833",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Birmingham",
+    "consumption_kwh": 0.35,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-03",
+    "last_maintenance": "2025-04-17",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44834",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Manchester",
+    "consumption_kwh": 0.22,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-04",
+    "last_maintenance": "2025-04-18",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44835",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Nottingham",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-01-05",
+    "last_maintenance": "2025-04-19",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44836",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Bristol",
+    "consumption_kwh": 0.19,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-06",
+    "last_maintenance": "2025-04-20",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44837",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Nottingham",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-01-07",
+    "last_maintenance": "2025-04-21",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44838",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Derby",
+    "consumption_kwh": 0.18,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-08",
+    "last_maintenance": "2025-04-22",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44839",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Reading",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-01-09",
+    "last_maintenance": "2025-04-23",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44840",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Oxford",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-01-10",
+    "last_maintenance": "2025-04-24",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44841",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Oxford",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-11",
+    "last_maintenance": "2025-04-25",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44842",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Nottingham",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-01-12",
+    "last_maintenance": "2025-04-26",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44843",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leicester",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-01-13",
+    "last_maintenance": "2025-04-27",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44844",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Cambridge",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-01-14",
+    "last_maintenance": "2025-04-28",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44845",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Bristol",
+    "consumption_kwh": 0.23,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-15",
+    "last_maintenance": "2025-04-29",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44846",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Leicester",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-01-16",
+    "last_maintenance": "2025-04-30",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44847",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Sheffield",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-17",
+    "last_maintenance": "2025-05-01",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44848",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Nottingham",
+    "consumption_kwh": 0.28,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-18",
+    "last_maintenance": "2025-05-02",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44849",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Nottingham",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-19",
+    "last_maintenance": "2025-05-03",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44850",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Derby",
+    "consumption_kwh": 0.23,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-20",
+    "last_maintenance": "2025-05-04",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44851",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Sheffield",
+    "consumption_kwh": 0.4,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-21",
+    "last_maintenance": "2025-05-05",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44852",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Bristol",
+    "consumption_kwh": 0.22,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-22",
+    "last_maintenance": "2025-05-06",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44853",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Nottingham",
+    "consumption_kwh": 0.23,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-23",
+    "last_maintenance": "2025-05-07",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44854",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Derby",
+    "consumption_kwh": 0.34,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-24",
+    "last_maintenance": "2025-05-08",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44855",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Reading",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-25",
+    "last_maintenance": "2025-05-09",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44856",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Derby",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-26",
+    "last_maintenance": "2025-05-10",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44857",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Leeds",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-01-27",
+    "last_maintenance": "2025-05-11",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44858",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Nottingham",
+    "consumption_kwh": 0.35,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-28",
+    "last_maintenance": "2025-05-12",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44859",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Derby",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-01-29",
+    "last_maintenance": "2025-05-13",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44860",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Sheffield",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-01-30",
+    "last_maintenance": "2025-05-14",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44861",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Oxford",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-01-31",
+    "last_maintenance": "2025-05-15",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44862",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Reading",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-01",
+    "last_maintenance": "2025-05-16",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44863",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Milton Keynes",
+    "consumption_kwh": 0.22,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-02",
+    "last_maintenance": "2025-05-17",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44864",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Manchester",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-03",
+    "last_maintenance": "2025-05-18",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44865",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "London",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-04",
+    "last_maintenance": "2025-05-19",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44866",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Bristol",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-05",
+    "last_maintenance": "2025-05-20",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44867",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Derby",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-06",
+    "last_maintenance": "2025-05-21",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44868",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Reading",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-02-07",
+    "last_maintenance": "2025-05-22",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44869",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Leicester",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-08",
+    "last_maintenance": "2025-05-23",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44870",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Reading",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-09",
+    "last_maintenance": "2025-05-24",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44871",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Manchester",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-10",
+    "last_maintenance": "2025-05-25",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44872",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Derby",
+    "consumption_kwh": 0.17,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-11",
+    "last_maintenance": "2025-05-26",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44873",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Birmingham",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-12",
+    "last_maintenance": "2025-05-27",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44874",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Manchester",
+    "consumption_kwh": 0.4,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-13",
+    "last_maintenance": "2025-05-28",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44875",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leeds",
+    "consumption_kwh": 0.17,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-14",
+    "last_maintenance": "2025-05-29",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44876",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Sheffield",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-15",
+    "last_maintenance": "2025-05-30",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44877",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Sheffield",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-16",
+    "last_maintenance": "2025-05-31",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44878",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Bristol",
+    "consumption_kwh": 0.29,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-17",
+    "last_maintenance": "2025-06-01",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44879",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Oxford",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-02-18",
+    "last_maintenance": "2025-06-02",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44880",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Sheffield",
+    "consumption_kwh": 0.37,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-19",
+    "last_maintenance": "2025-06-03",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44881",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Bristol",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-20",
+    "last_maintenance": "2025-06-04",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44882",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leicester",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-21",
+    "last_maintenance": "2025-06-05",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44883",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Sheffield",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-22",
+    "last_maintenance": "2025-06-06",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44884",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Reading",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-02-23",
+    "last_maintenance": "2025-06-07",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44885",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Nottingham",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-02-24",
+    "last_maintenance": "2025-06-08",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44886",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Milton Keynes",
+    "consumption_kwh": 0.28,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-02-25",
+    "last_maintenance": "2025-06-09",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44887",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Sheffield",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-26",
+    "last_maintenance": "2025-06-10",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44888",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Oxford",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-02-27",
+    "last_maintenance": "2025-06-11",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44889",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Leicester",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-02-28",
+    "last_maintenance": "2025-06-12",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44890",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Derby",
+    "consumption_kwh": 0.22,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-01",
+    "last_maintenance": "2025-06-13",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44891",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "London",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-02",
+    "last_maintenance": "2025-06-14",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44892",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Coventry",
+    "consumption_kwh": 0.15,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-03",
+    "last_maintenance": "2025-06-15",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44893",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Manchester",
+    "consumption_kwh": 0.28,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-04",
+    "last_maintenance": "2025-06-16",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44894",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Derby",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-05",
+    "last_maintenance": "2025-06-17",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44895",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Coventry",
+    "consumption_kwh": 0.3,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-06",
+    "last_maintenance": "2025-06-18",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44896",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Milton Keynes",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-07",
+    "last_maintenance": "2025-06-19",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44897",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leeds",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-03-08",
+    "last_maintenance": "2025-06-20",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44898",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Leeds",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-03-09",
+    "last_maintenance": "2025-06-21",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44899",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Milton Keynes",
+    "consumption_kwh": 0.3,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-10",
+    "last_maintenance": "2025-06-22",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44900",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Reading",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-11",
+    "last_maintenance": "2025-06-23",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44901",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Nottingham",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-03-12",
+    "last_maintenance": "2025-06-24",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44902",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Derby",
+    "consumption_kwh": 0.18,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-13",
+    "last_maintenance": "2025-06-25",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44903",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Birmingham",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-03-14",
+    "last_maintenance": "2025-06-26",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44904",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Oxford",
+    "consumption_kwh": 0.22,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-15",
+    "last_maintenance": "2025-06-27",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44905",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Milton Keynes",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-03-16",
+    "last_maintenance": "2025-06-28",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44906",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "London",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-03-17",
+    "last_maintenance": "2025-06-29",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44907",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Reading",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-03-18",
+    "last_maintenance": "2025-06-30",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44908",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Leicester",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-19",
+    "last_maintenance": "2025-07-01",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44909",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Milton Keynes",
+    "consumption_kwh": 0.36,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-20",
+    "last_maintenance": "2025-07-02",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44910",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "London",
+    "consumption_kwh": 0.28,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-21",
+    "last_maintenance": "2025-07-03",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44911",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leicester",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-22",
+    "last_maintenance": "2025-07-04",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44912",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Coventry",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-23",
+    "last_maintenance": "2025-07-05",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44913",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Leeds",
+    "consumption_kwh": 0.23,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-24",
+    "last_maintenance": "2025-07-06",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44914",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "London",
+    "consumption_kwh": 0.3,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-25",
+    "last_maintenance": "2025-07-07",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44915",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Coventry",
+    "consumption_kwh": 0.18,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-26",
+    "last_maintenance": "2025-07-08",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44916",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Coventry",
+    "consumption_kwh": 0.36,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-27",
+    "last_maintenance": "2025-07-09",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44917",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Coventry",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "install_date": "2022-03-28",
+    "last_maintenance": "2025-07-10",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44918",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "London",
+    "consumption_kwh": 0.29,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "install_date": "2022-03-29",
+    "last_maintenance": "2025-07-11",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44919",
+    "model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Manchester",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "install_date": "2022-03-30",
+    "last_maintenance": "2025-07-12",
+    "customer_segment": "Residential_UK"
+  },
+  {
+    "meter_id": "SM-44920",
+    "model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Derby",
+    "consumption_kwh": 0.38,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "install_date": "2022-03-31",
+    "last_maintenance": "2025-07-13",
+    "customer_segment": "Residential_UK"
+  }
+]

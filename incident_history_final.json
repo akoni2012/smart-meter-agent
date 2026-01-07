@@ -1,0 +1,1702 @@
+[
+  {
+    "incident_id": "INC-3001",
+    "meter_id": "SM-44821",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "London",
+    "timestamp": "2025-01-01T00:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3002",
+    "meter_id": "SM-44822",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Manchester",
+    "timestamp": "2025-01-01T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.29,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3003",
+    "meter_id": "SM-44823",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Birmingham",
+    "timestamp": "2025-01-01T08:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3004",
+    "meter_id": "SM-44824",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Leeds",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3005",
+    "meter_id": "SM-44825",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Bristol",
+    "timestamp": "2025-01-01T16:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3006",
+    "meter_id": "SM-44826",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "London",
+    "timestamp": "2025-01-01T20:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3007",
+    "meter_id": "SM-44827",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Sheffield",
+    "timestamp": "2025-01-02T00:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3008",
+    "meter_id": "SM-44828",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Nottingham",
+    "timestamp": "2025-01-02T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3009",
+    "meter_id": "SM-44829",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Reading",
+    "timestamp": "2025-01-02T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3010",
+    "meter_id": "SM-44830",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Oxford",
+    "timestamp": "2025-01-02T12:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.37,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3011",
+    "meter_id": "SM-44831",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "York",
+    "timestamp": "2025-01-02T16:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3012",
+    "meter_id": "SM-44832",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Cambridge",
+    "timestamp": "2025-01-02T20:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3013",
+    "meter_id": "SM-44833",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Milton Keynes",
+    "timestamp": "2025-01-03T00:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.41,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3014",
+    "meter_id": "SM-44834",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Derby",
+    "timestamp": "2025-01-03T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3015",
+    "meter_id": "SM-44835",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Leicester",
+    "timestamp": "2025-01-03T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3016",
+    "meter_id": "SM-44836",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Coventry",
+    "timestamp": "2025-01-03T12:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.39,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3017",
+    "meter_id": "SM-44837",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Wolverhampton",
+    "timestamp": "2025-01-03T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3018",
+    "meter_id": "SM-44838",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Luton",
+    "timestamp": "2025-01-03T20:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3019",
+    "meter_id": "SM-44839",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Watford",
+    "timestamp": "2025-01-04T00:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3020",
+    "meter_id": "SM-44840",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Slough",
+    "timestamp": "2025-01-04T04:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3021",
+    "meter_id": "SM-44841",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Maidenhead",
+    "timestamp": "2025-01-04T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.38,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3022",
+    "meter_id": "SM-44842",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Kingston",
+    "timestamp": "2025-01-04T12:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.35,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3023",
+    "meter_id": "SM-44843",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Richmond",
+    "timestamp": "2025-01-04T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3024",
+    "meter_id": "SM-44844",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Croydon",
+    "timestamp": "2025-01-04T20:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.29,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3025",
+    "meter_id": "SM-44845",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Bromley",
+    "timestamp": "2025-01-05T00:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.22,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3026",
+    "meter_id": "SM-44846",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Harrow",
+    "timestamp": "2025-01-05T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3027",
+    "meter_id": "SM-44847",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Ealing",
+    "timestamp": "2025-01-05T08:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3028",
+    "meter_id": "SM-44848",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Hounslow",
+    "timestamp": "2025-01-05T12:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3029",
+    "meter_id": "SM-44849",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Enfield",
+    "timestamp": "2025-01-05T16:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.39,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3030",
+    "meter_id": "SM-44850",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Barnet",
+    "timestamp": "2025-01-05T20:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3031",
+    "meter_id": "SM-44851",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Ilford",
+    "timestamp": "2025-01-06T00:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3032",
+    "meter_id": "SM-44852",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Romford",
+    "timestamp": "2025-01-06T04:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3033",
+    "meter_id": "SM-44853",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Dagenham",
+    "timestamp": "2025-01-06T08:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3034",
+    "meter_id": "SM-44854",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Barking",
+    "timestamp": "2025-01-06T12:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3035",
+    "meter_id": "SM-44855",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Chingford",
+    "timestamp": "2025-01-06T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3036",
+    "meter_id": "SM-44856",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Walthamstow",
+    "timestamp": "2025-01-06T20:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.29,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3037",
+    "meter_id": "SM-44857",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Stratford",
+    "timestamp": "2025-01-07T00:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3038",
+    "meter_id": "SM-44858",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leyton",
+    "timestamp": "2025-01-07T04:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.39,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3039",
+    "meter_id": "SM-44859",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Hackney",
+    "timestamp": "2025-01-07T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3040",
+    "meter_id": "SM-44860",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Islington",
+    "timestamp": "2025-01-07T12:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3041",
+    "meter_id": "SM-44861",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Clapham",
+    "timestamp": "2025-01-07T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3042",
+    "meter_id": "SM-44862",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Brixton",
+    "timestamp": "2025-01-07T20:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3043",
+    "meter_id": "SM-44863",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Peckham",
+    "timestamp": "2025-01-08T00:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3044",
+    "meter_id": "SM-44864",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Greenwich",
+    "timestamp": "2025-01-08T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.36,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3045",
+    "meter_id": "SM-44865",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Lewisham",
+    "timestamp": "2025-01-08T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.23,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3046",
+    "meter_id": "SM-44866",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Deptford",
+    "timestamp": "2025-01-08T12:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3047",
+    "meter_id": "SM-44867",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "New Cross",
+    "timestamp": "2025-01-08T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3048",
+    "meter_id": "SM-44868",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Blackheath",
+    "timestamp": "2025-01-08T20:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3049",
+    "meter_id": "SM-44869",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Charlton",
+    "timestamp": "2025-01-09T00:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.3,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3050",
+    "meter_id": "SM-44870",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Eltham",
+    "timestamp": "2025-01-09T04:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3051",
+    "meter_id": "SM-44871",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Bexley",
+    "timestamp": "2025-01-09T08:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3052",
+    "meter_id": "SM-44872",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Sidcup",
+    "timestamp": "2025-01-09T12:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3053",
+    "meter_id": "SM-44873",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Orpington",
+    "timestamp": "2025-01-09T16:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.35,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3054",
+    "meter_id": "SM-44874",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Sevenoaks",
+    "timestamp": "2025-01-09T20:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3055",
+    "meter_id": "SM-44875",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Tunbridge Wells",
+    "timestamp": "2025-01-10T00:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3056",
+    "meter_id": "SM-44821",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "London",
+    "timestamp": "2025-01-10T04:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3057",
+    "meter_id": "SM-44822",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Manchester",
+    "timestamp": "2025-01-10T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.21,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3058",
+    "meter_id": "SM-44823",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Birmingham",
+    "timestamp": "2025-01-10T12:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.23,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3059",
+    "meter_id": "SM-44824",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Leeds",
+    "timestamp": "2025-01-10T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3060",
+    "meter_id": "SM-44825",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Bristol",
+    "timestamp": "2025-01-10T20:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3061",
+    "meter_id": "SM-44826",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "London",
+    "timestamp": "2025-01-11T00:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.4,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3062",
+    "meter_id": "SM-44827",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Sheffield",
+    "timestamp": "2025-01-11T04:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3063",
+    "meter_id": "SM-44828",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Nottingham",
+    "timestamp": "2025-01-11T08:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3064",
+    "meter_id": "SM-44829",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Reading",
+    "timestamp": "2025-01-11T12:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3065",
+    "meter_id": "SM-44830",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Oxford",
+    "timestamp": "2025-01-11T16:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3066",
+    "meter_id": "SM-44831",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "York",
+    "timestamp": "2025-01-11T20:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3067",
+    "meter_id": "SM-44832",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Cambridge",
+    "timestamp": "2025-01-12T00:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3068",
+    "meter_id": "SM-44833",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Milton Keynes",
+    "timestamp": "2025-01-12T04:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3069",
+    "meter_id": "SM-44834",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Derby",
+    "timestamp": "2025-01-12T08:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.35,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3070",
+    "meter_id": "SM-44835",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Leicester",
+    "timestamp": "2025-01-12T12:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3071",
+    "meter_id": "SM-44836",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Coventry",
+    "timestamp": "2025-01-12T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3072",
+    "meter_id": "SM-44837",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Wolverhampton",
+    "timestamp": "2025-01-12T20:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3073",
+    "meter_id": "SM-44838",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Luton",
+    "timestamp": "2025-01-13T00:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3074",
+    "meter_id": "SM-44839",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Watford",
+    "timestamp": "2025-01-13T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.25,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3075",
+    "meter_id": "SM-44840",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Slough",
+    "timestamp": "2025-01-13T08:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3076",
+    "meter_id": "SM-44841",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Maidenhead",
+    "timestamp": "2025-01-13T12:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.24,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3077",
+    "meter_id": "SM-44842",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Kingston",
+    "timestamp": "2025-01-13T16:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3078",
+    "meter_id": "SM-44843",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Richmond",
+    "timestamp": "2025-01-13T20:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.35,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3079",
+    "meter_id": "SM-44844",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Croydon",
+    "timestamp": "2025-01-14T00:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3080",
+    "meter_id": "SM-44845",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Bromley",
+    "timestamp": "2025-01-14T04:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3081",
+    "meter_id": "SM-44846",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Harrow",
+    "timestamp": "2025-01-14T08:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.3,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3082",
+    "meter_id": "SM-44847",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Ealing",
+    "timestamp": "2025-01-14T12:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.33,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3083",
+    "meter_id": "SM-44848",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Hounslow",
+    "timestamp": "2025-01-14T16:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3084",
+    "meter_id": "SM-44849",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Enfield",
+    "timestamp": "2025-01-14T20:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.26,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3085",
+    "meter_id": "SM-44850",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Barnet",
+    "timestamp": "2025-01-15T00:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3086",
+    "meter_id": "SM-44851",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Ilford",
+    "timestamp": "2025-01-15T04:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3087",
+    "meter_id": "SM-44852",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Romford",
+    "timestamp": "2025-01-15T08:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3088",
+    "meter_id": "SM-44853",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Dagenham",
+    "timestamp": "2025-01-15T12:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.2,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3089",
+    "meter_id": "SM-44854",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Barking",
+    "timestamp": "2025-01-15T16:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.32,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3090",
+    "meter_id": "SM-44855",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Chingford",
+    "timestamp": "2025-01-15T20:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3091",
+    "meter_id": "SM-44856",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Walthamstow",
+    "timestamp": "2025-01-16T00:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.29,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3092",
+    "meter_id": "SM-44857",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Stratford",
+    "timestamp": "2025-01-16T04:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.34,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3093",
+    "meter_id": "SM-44858",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Leyton",
+    "timestamp": "2025-01-16T08:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3094",
+    "meter_id": "SM-44859",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Hackney",
+    "timestamp": "2025-01-16T12:00:00Z",
+    "anomaly_type": "Zero consumption",
+    "consumption_kwh": 0.0,
+    "expected_range": [
+      0.8,
+      2.1
+    ],
+    "root_cause": "Communication module crash",
+    "resolution": "Remote reset",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3095",
+    "meter_id": "SM-44860",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Islington",
+    "timestamp": "2025-01-16T16:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3096",
+    "meter_id": "SM-44861",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.1",
+    "location": "Clapham",
+    "timestamp": "2025-01-16T20:00:00Z",
+    "anomaly_type": "No readings",
+    "consumption_kwh": null,
+    "expected_range": [
+      0.5,
+      2.0
+    ],
+    "root_cause": "Meter hardware fault",
+    "resolution": "Engineer replacement",
+    "engineer_required": true
+  },
+  {
+    "incident_id": "INC-3097",
+    "meter_id": "SM-44862",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.0",
+    "location": "Brixton",
+    "timestamp": "2025-01-17T00:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.31,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3098",
+    "meter_id": "SM-44863",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.1.9",
+    "location": "Peckham",
+    "timestamp": "2025-01-17T04:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.27,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3099",
+    "meter_id": "SM-44864",
+    "meter_model": "Landis Gyr SMETS2",
+    "firmware_version": "v3.1.0",
+    "location": "Greenwich",
+    "timestamp": "2025-01-17T08:00:00Z",
+    "anomaly_type": "Intermittent readings",
+    "consumption_kwh": 0.26,
+    "expected_range": [
+      0.6,
+      2.0
+    ],
+    "root_cause": "Firmware memory leak",
+    "resolution": "Remote firmware patch",
+    "engineer_required": false
+  },
+  {
+    "incident_id": "INC-3100",
+    "meter_id": "SM-44865",
+    "meter_model": "Secure SMETS2",
+    "firmware_version": "v3.2.1",
+    "location": "Lewisham",
+    "timestamp": "2025-01-17T12:00:00Z",
+    "anomaly_type": "Delayed readings",
+    "consumption_kwh": 0.26,
+    "expected_range": [
+      0.5,
+      1.8
+    ],
+    "root_cause": "Network latency",
+    "resolution": "Retry scheduling",
+    "engineer_required": false
+  }
+]
