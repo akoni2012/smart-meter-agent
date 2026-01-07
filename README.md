@@ -206,6 +206,6 @@ This project is a **demonstration** and does not represent a production-ready sy
 
 ## Contact
 For questions or demo walkthroughs, please contact:
-[Your Name / Team]
+Akin
 
 
