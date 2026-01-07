@@ -13,7 +13,7 @@ The solution combines:
 - **IBM watsonx Orchestrate** for agentic workflow orchestration
 - **Astra DB Serverless** for scalable incident history retrieval
 - **Langflow** for visual AI agent design and prompt orchestration
-- **LLMs (OpenAI)** for explainable reasoning over structured energy data
+- **LLMs (IBM Granite4: micro-h)** for explainable reasoning over structured energy data
 
 This demo is designed to be **explainable, auditable, and regulator-friendly**, aligning with real-world utility operations.
 
@@ -69,7 +69,7 @@ Automated Actions
 | **IBM watsonx Orchestrate** | Agentic workflow orchestration and action execution |
 | **Astra DB Serverless** | Incident history storage and retrieval |
 | **Langflow** | Visual AI agent and prompt orchestration |
-| **OpenAI LLMs** | Reasoning and explainable inference |
+| **IBM Granite LLMs** | Reasoning and explainable inference |
 | **JSON / Time-Series Data** | Smart meter telemetry and incidents |
 
 ---
@@ -169,7 +169,6 @@ This demonstrates **closed-loop AI automation** in an energy operations context.
 - IBM watsonx Orchestrate access
 - Astra DB Serverless account
 - Langflow installed or hosted
-- OpenAI API key
 
 ### High-Level Setup
 1. Deploy Astra DB schema and load incident history
